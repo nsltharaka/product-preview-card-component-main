@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-    margin: 10px auto;
+    margin: 10% auto;
     width: 355px;
 
     border-radius: 10px;
@@ -108,7 +108,7 @@ button:hover {
 
     .container {
         display: flex;
-        margin: 0 auto;
+        margin: 10% auto;
         width: 600px;
         align-items: center;
     }
