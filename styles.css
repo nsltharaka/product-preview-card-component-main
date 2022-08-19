@@ -112,11 +112,17 @@ button:hover {
     .container {
         display: flex;
         width: 600px;
+        height: 400px;
         align-items: center;
+    }
+
+    .product-intro {
+        width: 600px;
     }
 
     .product-cover-image {
         width: 100%;
+        height: 100%;
         display: block;
         border-top-right-radius: 0;
         border-bottom-left-radius: 10px;
