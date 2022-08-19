@@ -15,6 +15,10 @@
 }
 
 body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
     margin: 0;
     padding: 10px;
 
@@ -22,7 +26,6 @@ body {
 }
 
 .container {
-    margin: 10% auto;
     width: 355px;
 
     border-radius: 10px;
@@ -108,14 +111,13 @@ button:hover {
 
     .container {
         display: flex;
-        margin: 10% auto;
         width: 600px;
         align-items: center;
     }
 
     .product-cover-image {
-        width: 50%;
-        content: url(./images/image-product-desktop.jpg);
+        width: 100%;
+        display: block;
         border-top-right-radius: 0;
         border-bottom-left-radius: 10px;
     }

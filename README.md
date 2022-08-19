@@ -52,4 +52,4 @@ need to improve responsive design, writing more clean css.
 
 - Website - [Nisal Tharaka](https://nsltharka.github.io)
 - Frontend Mentor - [@nsltharaka](https://www.frontendmentor.io/profile/nsltharaka)
-- Twitter - [@@nsl_tharaka](https://www.twitter.com/nsl_tharaka)
+- Twitter - [@nsl_tharaka](https://www.twitter.com/nsl_tharaka)
